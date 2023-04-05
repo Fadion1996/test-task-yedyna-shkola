@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-yedyna-shkola/static/css/main.e6c13ad2.css",
+    "main.js": "/test-task-yedyna-shkola/static/js/main.60f01bd2.js",
+    "index.html": "/test-task-yedyna-shkola/index.html",
+    "main.e6c13ad2.css.map": "/test-task-yedyna-shkola/static/css/main.e6c13ad2.css.map",
+    "main.60f01bd2.js.map": "/test-task-yedyna-shkola/static/js/main.60f01bd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.60f01bd2.js"
+  ]
+}
